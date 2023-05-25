@@ -8,3 +8,7 @@ https://www.figma.com/file/s0bipC6xWl6RcgV8Ji0EDX/IICT-Class-Management-Prototyp
 
 google sites link-
 https://sites.google.com/student.sust.edu/iict-class-management/home
+
+
+https://github.com/Farzine/Class-Management-Prototype/assets/107579600/33eba1ae-268c-4ba4-a1f6-77f097597b0d
+
